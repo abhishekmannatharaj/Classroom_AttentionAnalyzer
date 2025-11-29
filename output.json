@@ -1,0 +1,15 @@
+{
+  "timestamp": 1764377359,
+  "detected_count": 1,
+  "global_distraction": 0,
+  "global_hands_raised": false,
+  "students": {
+    "0": {
+      "status": "ENGAGED",
+      "ear": 0.28,
+      "mar": 0.006,
+      "yaw": -18.52,
+      "distraction": "OFF"
+    }
+  }
+}
